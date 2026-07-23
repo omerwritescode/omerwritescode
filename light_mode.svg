@@ -104,7 +104,7 @@
     
     <!-- Programming Languages -->
     <text x="0" y="240" class="label">Languages.Programming:</text>
-    <text x="220" y="240" class="value">Python, SQL, R</text>
+    <text x="220" y="240" class="value">Python, SQL, R,</text>
     <text x="220" y="260" class="value">HTML/CSS, JavaScript</text>
     
     <!-- Real Languages -->
