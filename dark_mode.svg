@@ -125,7 +125,7 @@
     
     <!-- Repos -->
     <text x="0" y="440" class="label">Repos:</text>
-    <text x="220" y="440" class="value">12</text>
+    <text x="220" y="440" class="value">14</text>
     
     <!-- Stars -->
     <text x="0" y="465" class="label">Stars:</text>
